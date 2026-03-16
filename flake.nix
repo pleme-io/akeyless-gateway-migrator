@@ -19,7 +19,7 @@
         pname = "akeyless-gateway-migrator";
         version = "0.0.0-dev";
         src = self;
-        vendorHash = "sha256-ZgmGKWci7Mrtj1ai9eOAHRXq/nWDpA2CUrVCaPJAJqY=";
+        vendorHash = "sha256-E49fPxp844OnTwSJSLnhNG5lu0W9UB8I1Wq8hE+1fo8=";
         description = "CLI tool to migrate configuration between Akeyless Gateway clusters";
         homepage = "https://github.com/pleme-io/akeyless-gateway-migrator";
       };
